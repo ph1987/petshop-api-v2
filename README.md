@@ -6,6 +6,8 @@
 
 > express
 
+> sequelize
+
 > postgreSQL
 
 > elephantSQL
